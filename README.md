@@ -1,1 +1,1 @@
-This is a debug chatting app made with **Firebase** and **Flutter** and is still under development.
+This is a debug chatting app made with [**Firebase**](https://firebase.google.com/?gclid=EAIaIQobChMIrbbIgIiU-AIVj5hmAh13OgUaEAAYASAAEgI9YvD_BwE&gclsrc=aw.ds) and **Flutter**(https://flutter.dev/) and is still under development.
